@@ -24,7 +24,7 @@ integrare ordinamento e categoria successivamente)
 ##### Pagina Piatto
 pagina per l’inserimento del piatto singolo con descrizione e prezzo
 ##### Pagina Lista Ordini Ricevuti
-##### Pagina Statistiche Ordini
+##### Pagina Statistiche 
 permette di visualizzare le statistiche degli ordini.
 Nello specifico i grafici mostrano il numero di ordini per mesi/anni e
 l’ammontare delle vendite.
